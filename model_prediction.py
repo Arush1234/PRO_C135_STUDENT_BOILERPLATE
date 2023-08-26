@@ -113,6 +113,3 @@ def show_entry():
             "emotion_url": emiotion_url_3,
         }
     ]
-
-    
-    
